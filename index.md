@@ -10,7 +10,3 @@ Phasellus sodales est nec massa imperdiet commodo. Maecenas risus nulla, placera
 
 Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien. Duis feugiat urna vel justo cursus facilisis.
 Vivamus ligula dui, convallis a varius vitae, facilisis eget magna.
-
-{% for variable in site %}
-* {{ variable }}
-{% endfor %}
