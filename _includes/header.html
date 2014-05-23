@@ -23,6 +23,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         {% for i in site.github.public_repositories %}
+                            <li><a href="{{ i.url }}">{{ i.name }}</a></li>
                             {{ i }}
                         {% endfor %}
                         <!-- <li><a href="#">Chemistry</a></li>
