@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: About Me
 layout: default
 ---
 
