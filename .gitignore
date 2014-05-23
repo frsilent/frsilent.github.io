@@ -41,6 +41,7 @@ Thumbs.db
 
 ## Generated Static files
 _site/
+_site/*
 ## Local bootstrap assets
 css/
 js/
