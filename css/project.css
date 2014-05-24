@@ -6,6 +6,6 @@ body {
     padding-top: 70px;
 }
 
-.sidebar {
-    border: 8px black;
+.content-pane, .sidebar {
+    background-color: #F2FBF6;
 }
