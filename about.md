@@ -3,14 +3,10 @@ title: About Me
 layout: default
 ---
 
-# Welcome!
+# Hey everyone
 
-Proin eleifend libero accumsan felis luctus nec consectetur purus commodo.
-Phasellus sodales est nec massa imperdiet commodo. Maecenas risus nulla, placerat vel vestibulum vel, dapibus quis libero.
+My name is Roland Heintze and I work as a software developer out of the Tampa area.
 
-Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien. Duis feugiat urna vel justo cursus facilisis.
-Vivamus ligula dui, convallis a varius vitae, facilisis eget magna.
+I have a wide variety of interests in technology and have experience in a multitude of different platforms.
+I presently work as a developer in the Django framework but have written everything from web front-end to low-level asm.
 
-{% for variable in site %}
-* {{ variable }}
-{% endfor %}

@@ -1,4 +1,8 @@
 <div class="sidebar well">
-    <h3>Sidebar</h3>
-    <p>Sidebar content goes here.</p>
+    <h3>Blog Categories</h3>
+    <ul>
+        {% for category in site.categories %}
+        <li><a href="/categories/{{ category[0] }}.html">{{ category[0] }}</a></li>
+        {% endfor %}
+    </ul>
 </div>
