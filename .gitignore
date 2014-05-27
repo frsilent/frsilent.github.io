@@ -42,4 +42,4 @@ Thumbs.db
 ## Generated Static files
 _site/
 _site/*
-
+!_site/categories/
