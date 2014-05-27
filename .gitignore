@@ -40,6 +40,8 @@ Thumbs.db
 *.sublime-*
 
 ## Generated Static files
-_site/
+!_site/
+
 _site/*
 !_site/categories/
+
