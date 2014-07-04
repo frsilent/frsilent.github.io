@@ -11,6 +11,7 @@ TODOs: -----------------
        Add social networking to footer
        Consider changing from light-green background to a red or blue
        Add comments
+       Make rheintze link back to home
 
 
 
