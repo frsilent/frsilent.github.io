@@ -4,6 +4,7 @@
 
 body {
     padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 h1 {
@@ -36,8 +37,8 @@ h1 {
 
 
 
-/*              Social Buttons
-.container{ text-align: center; }
+              /*Social Buttons*/
+/*.container{ text-align: center; }*/
 i.fb,       span.fb{        color: #3b5998; }
 i.tw,       span.tw{        color: #00aced; }
 i.google,   span.google{    color: #dd4b39; }
@@ -76,4 +77,4 @@ i.surfingbird::before{
 .btn-lg.google-plus-one span{ font-size: 20px; margin-left: 18px; }
 .btn-lg.google-plus-one i{ bottom: -5px; }
 .btn-xs.google-plus-one span{ font-size: 12px;}
-.btn-xs.google-plus-one i{ bottom: -7px; }*/
+.btn-xs.google-plus-one i{ bottom: -7px; }
