@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 categories: ['miscellaneous']
-layout: default
+layout: post
 ---
 
 # Hello World

@@ -9,9 +9,8 @@ TODOs: -----------------
                 Right now having to create category pages locally & add to repository in order to display.
        * Add a CV/Resume to navbar
        * Add social networking to footer
-       * Consider changing from light-green background to a red or blue
        * Add comments
-       * Make rheintze link back to home
+       * Add social share buttons to index's posts & individual post pages
        * Paginate blog entries on index page
 
 
