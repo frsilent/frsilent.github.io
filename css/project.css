@@ -35,10 +35,10 @@ h1 {
     padding-bottom: -30px;
 }
 
+.sharing-icons {
+    padding-left: 50px;
+}
 
-
-              /*Social Buttons*/
-/*.container{ text-align: center; }*/
 i.fb,       span.fb{        color: #3b5998; }
 i.tw,       span.tw{        color: #00aced; }
 i.google,   span.google{    color: #dd4b39; }
