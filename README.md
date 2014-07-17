@@ -32,5 +32,6 @@ This is my other post
 
 Category Structure:
 
-
-Uses _site/categories/X/index.html to view category page
+!!!
+Need to establish pre-commit hook for cp -R _site/categories/ ./categories/
+Otherwise github will need be able to access category pages
