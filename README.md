@@ -12,6 +12,7 @@ TODOs: -----------------
        * Add comments
        * Add social share buttons to index's posts & individual post pages
        * Paginate blog entries on index page
+       * Get an Icon made
 
 
 
@@ -26,3 +27,10 @@ layout: default
 # Hey! Welcome!
 
 This is my other post
+
+
+
+Category Structure:
+
+
+Uses _site/categories/X/index.html to view category page
