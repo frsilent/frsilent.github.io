@@ -30,6 +30,8 @@ This is my other post
 
 
 
+Sweet info: http://joshualande.com/jekyll-github-pages-poole/
+
 Category Structure:
 
 !!!
