@@ -16,20 +16,6 @@ TODOs: -----------------
 
 
 
-Post Format:
-
----
-title: "Roland's Portfolio"
-categories : [lessons, beginner, another]
-layout: default
----
-
-# Hey! Welcome!
-
-This is my other post
-
-
-
 Sweet info: http://joshualande.com/jekyll-github-pages-poole/
 
 Category Structure:
@@ -37,3 +23,7 @@ Category Structure:
 !!!
 Need to establish pre-commit hook for cp -R _site/categories/ ./categories/
 Otherwise github will need be able to access category pages
+
+
+Pride. Pride is something that I felt should be written about. I've sometimes been accused of being too prideful.
+Redundancy. When making this blog I often had doubts. I worried....will anyone read this? After all there's hundreds of other blogs...from many authors much more qualified.
