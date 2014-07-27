@@ -21,7 +21,9 @@ Sweet info: http://joshualande.com/jekyll-github-pages-poole/
 Category Structure:
 
 !!!
-Need to establish pre-commit hook for cp -R _site/categories/ ./categories/
+Need to establish pre-commit hook for
+rm -rf ./categories/
+cp -R _site/categories/ ./categories/
 Otherwise github will need be able to access category pages
 
 
