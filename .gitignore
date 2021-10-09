@@ -39,6 +39,8 @@ Thumbs.db
 ## sublime project files ##
 *.sublime-*
 
+## Cache
+.jekyll-cache/
 ## Generated Static files
 !_site/
 _site/*
